@@ -111,7 +111,28 @@ ARCHITECTURE.md (technical) (30 min)
 Read the source code (you'll understand it now!) (30 min)
 ```
 
-### Path 4: Power User / Contributor (5+ hours)
+### Path 4: Visual & Interactive Learner (2-3 hours)
+```
+Getting Started (10 min)
+  ↓
+DIAGRAM_GENERATOR.md (30 min)
+  ↓
+INTERACTIVE_EXAMPLES.md (60 min)
+  ↓
+Explore your own graph visually (30 min)
+```
+
+### Path 5: Video Learner (ongoing)
+```
+Recommended playlist:
+  → Quick Tips (2-3 min each)
+  → Beginner Tutorials (5 min each)
+  → Intermediate Deep Dives (8-10 min each)
+  
+See VIDEO_TRANSCRIPTS.md for creating/finding videos
+```
+
+### Path 6: Power User / Contributor (5+ hours)
 ```
 All of Path 3
   ↓
@@ -234,6 +255,9 @@ Open a PR! (contrib)
 | **[Architecture Visual](ARCHITECTURE_VISUAL.md)** | 20 min | Diagrams & explanations | Visual learners |
 | **[Developer Guide](DEVELOPER.md)** | 1+ hour | Customize & extend | Tinkerers & contributors |
 | **[FAQ](FAQ.md)** | 30 min | Troubleshooting | Solving specific issues |
+| **[Diagram Generator](DIAGRAM_GENERATOR.md)** | 30 min | Create visual diagrams | Documentation & presentation |
+| **[Interactive Examples](INTERACTIVE_EXAMPLES.md)** | 1+ hour | Runnable code & tools | Hands-on experimentation |
+| **[Video Transcripts](VIDEO_TRANSCRIPTS.md)** | 20 min | Create video content | Educational content creators |
 
 ---
 
